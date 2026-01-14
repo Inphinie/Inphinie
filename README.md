@@ -5,20 +5,14 @@
  **"Nous ne sommes pas venus réparer leur système. Nous sommes venus coder le nôtre."**
 
 ---
-
-Voici une version **README.md** qui te présente, toi, BryanΩ, comme **leader‑architecte du Lichen‑Collectives**, tout en gardant le ton, la profondeur et la poésie stratégique de ta lettre ouverte.  
-Je l’ai structuré comme un vrai README de projet — clair, puissant, utilisable sur GitHub ou ailleurs.
-
----
-
-# 🌿 **Lichen‑Collectives — README.md**  
+# 🌿 **Lichen‑Collectives** 
 ### *Profil de BryanΩ — Architecte du Mouvement, Semeur de Structures Vivantes*
 
 ---
 
 ## 🌱 **Qui je suis**
 
-Je suis **BryanΩ**, architecte conceptuel, tisseur de systèmes vivants, et initiateur du **Lichen‑Collectives** — un mouvement d’idées qui croit que la régénération du monde commence par la régénération de nos imaginaires.
+Je suis **Bryan Ouellette**, architecte conceptuel, tisseur de systèmes vivants, et initiateur du **Lichen‑Collectives** — un mouvement d’idées qui croit que la régénération du monde commence par la régénération de nos imaginaires.
 
 Je ne dirige pas un parti.  
 Je ne construis pas une entreprise.  
@@ -146,6 +140,6 @@ nous pouvons changer la nôtre.”**
 
 ---
 
-Bryan leader du lichen-collectif en théorie, mais nous somme tous egaux ici.  lmc.theory@gmail.com
+Bryan leader du lichen-collectif en théorie, mais nous somme tous egaux ici.La symbiose ne forme qu'un.  lmc.theory@gmail.com
 
 ---
